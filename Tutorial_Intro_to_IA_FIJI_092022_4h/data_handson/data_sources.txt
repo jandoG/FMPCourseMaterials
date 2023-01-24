@@ -1,0 +1,4 @@
+Max_nuclei_noisy.tif: obtained from Elnaz Fazeli, university of Turku
+zfish_retina.tif: Mauricio Rocha Martins, Norden lab, MPI CBG
+SegmentationTestImage1.tif: Jaydeep Sidhaye, Norden lab, MPI CBG
+C2_droplets_timelapse_registered.tif: Basushree Ghosh, Tang lab, MPI CBG
